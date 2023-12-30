@@ -1,0 +1,32 @@
+/* UNORDERED LIST */
+/* ul{
+    list-style-type: square;
+} */
+
+/* ORDERED LIST */
+/* ol{
+    list-style-type: upper-roman;
+} */
+
+/* IMAGES FOR BULLETS */
+/* ul{
+    list-style-image: url(./apples/arrow.png);
+}
+
+li{
+    margin: 10px 0px 0px 0px;
+} */
+
+/* LIST STYLE POSITION */
+/* .illuminations{
+    list-style-position: outside;
+}
+
+.season{
+    list-style-position: inside;
+} */
+
+/* LIST SHORTHAND */
+ul{
+    list-style: inside square;
+}
