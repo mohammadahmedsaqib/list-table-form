@@ -84,8 +84,70 @@ table{
     border: 2px solid #000000 ;
     background-color: #0088dd;
     padding: 15px;
+}*/
+
+/* table{
+    border-collapse: separate
+} */
+/* STYLING FORMS */
+
+#github{
+    margin-top: 5px;        
 }
 
-table{
-    border-collapse: separate;
+/* input{
+    font-size: xx-large;
+    background-color: black;
+    color: white;
 } */
+
+/* input{
+    border: 5px solid blue;
+    border-radius: 20px;
+} */
+
+/* input:hover{
+    background-color: lightblue;
+}
+
+input:focus{
+    border: 5px solid green;
+    outline: none;
+} */
+
+/* #email{
+    background-image: url(./apples/emails.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+#github{
+    background-image: url(./apples/github.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+} */
+
+/* STYLING FIELDSET AND LEGEND */
+/* fieldset{
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+
+legend{
+    background-color:#efefef ;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    text-align: left;
+} */
+
+/* CURSER STYLES */
+#submit-btn:hover{
+    cursor: wait;
+}
