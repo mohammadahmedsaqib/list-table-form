@@ -27,6 +27,65 @@ li{
 } */
 
 /* LIST SHORTHAND */
-ul{
+/* ul{
     list-style: inside square;
+} */
+
+/* TABLE PROPERTIES */
+/* table{
+    width: 600px;
+    padding: 20px;
+    text-transform: lowercase;
+    border-top: 1px solid red;
+    border-bottom: 1px solid green;
+} */
+
+/* table,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: left;
+} */
+
+/* table{
+    background-color: aqua;
+} */
+
+/* tr:hover{
+    background-color: wheat;
+    cursor: pointer;
+} */
+
+/* td{
+    padding: 10px;
+} */
+
+/* th{
+    background-color: black;
+    color: white;
+} */
+
+/* .even{
+    background-color: black;
+    color: white;
+} */
+/* EMPTY CELLS */
+
+/* td{
+    border: 1px solid red;
+    padding: 15px;
 }
+
+table{
+    empty-cells: show;
+} */
+
+/* GAPS BETWEEN CELLS */
+/* td{
+    border: 2px solid #000000 ;
+    background-color: #0088dd;
+    padding: 15px;
+}
+
+table{
+    border-collapse: separate;
+} */
